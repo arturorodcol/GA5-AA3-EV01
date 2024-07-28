@@ -1,0 +1,41 @@
+.a {
+    margin: 3px; 
+    padding: 3px; 
+    border: 5px solid #E35803;
+    display: block; 
+}
+
+.a .c {
+    background-color: #EFDEA3; 
+    text-align: center;
+    margin: 5px; 
+    padding: 10px; 
+}
+
+.a .d {
+    background-color: #DFAE6E; 
+    text-align: right; 
+    margin: 5px; 
+    padding: 10px; 
+}
+
+.b {
+    margin: 3px; 
+    padding: 3px; 
+    border: 5px solid #7B0098; 
+    display: block; 
+}
+
+.b .e {
+    background-color: #CCB0D3; 
+    text-align: center;
+    margin: 5px; 
+    padding: 10px; 
+}
+
+.b .f {
+    background-color: #BD5CD4; 
+    text-align: right; 
+    margin: 5px; 
+    padding: 10px; 
+}
